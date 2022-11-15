@@ -1,4 +1,4 @@
-baseurl: /portfolio-template
-title: My Portfolio
+baseurl: /portfolio
+title: Source_portfolio
 livereload: true
 theme: null
