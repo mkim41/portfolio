@@ -1,8 +1,19 @@
 ---
 layout: work
-title: "Work Entry two"
+title: "Work in Gallery"
 order: 1
 preview: 1.jpg
+description:
+summary:
+gallery:
+    - file: 1.jpg
+      title: Example 1
+    - file: 1.jpg
+      title: Example 1
+    - file: 1.jpg
+      title: Example 1
+    - file: 1.jpg
+      title: Example 1
 ---
 
 ## Easier text markup

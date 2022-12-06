@@ -12,6 +12,8 @@ layout: default
 	</article>
 </section>
 <section>
+	{% include nav.html %}
+	
 	<h2>Work</h2>
 	<ul class="grid">
 		{% assign works = site.pages | where: "layout", "work" | sort: "order" %}
